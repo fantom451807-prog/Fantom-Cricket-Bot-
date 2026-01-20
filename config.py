@@ -1,0 +1,11 @@
+# config.py
+
+API_ID = 37869233  
+API_HASH = "c71c39e03fabd7a52c1ef8748df7dba5" 
+BOT_TOKEN = "8560081099:AAHLksc5NjFIeVo05T6HChJBAPyAkUK_EqY" # Name changed to BOT_TOKEN
+
+OWNER_ID = 7558715645
+ADMIN_IDS = [7558715645, 6398668820]
+
+# Group for logs/new player notifications
+LOG_GROUP_ID = -1002462319082
